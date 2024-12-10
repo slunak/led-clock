@@ -1,6 +1,6 @@
 # LED RGB Matrix Clock
 
-<img src="resources/git/cloudy.jpeg" width="25%" alt="Cloudy"/> <img src="resources/git/rain.jpeg" width="25%" alt="Rain"/> <img src="resources/git/wind.jpeg" width="25%" alt="Wind"/>
+<img src="resources/git/cloudy.jpeg" width="20%" alt="Cloudy"/> <img src="resources/git/rain.jpeg" width="20%" alt="Rain"/> <img src="resources/git/wind.jpeg" width="20%" alt="Wind"/> <img src="resources/git/sun.jpeg" width="20%" alt="Wind"/>
 
 > [!NOTE]
 > Instructions may be incomplete as it has been a while since I set this up.
